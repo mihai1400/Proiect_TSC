@@ -80,7 +80,7 @@ Sistemul este construit în jurul **ESP32-C6-WROOM-1-N8** (microcontroler Wi-Fi 
 - **Senzori:** BME688 este pornit periodic (e.g., la 1 minut)
 
 ## 5. Diagramă
-    ![Architecture Diagram](https://raw.githubusercontent.com/mihai1400/Proiect_TSC/main/diagrama.png)
+    ![Architecture Diagram]([https://raw.githubusercontent.com/mihai1400/Proiect_TSC/main/diagrama.png](https://github.com/mihai1400/Proiect_TSC/blob/main/diagrama.png))
 
 ## 6. Concluzii
 - ESP32-C6 este nucleul sistemului, cu 3 interfețe SPI (Flash, SD, E-Paper) și I2C partajat (BME688 + DS3231)
