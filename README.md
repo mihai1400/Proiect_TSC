@@ -87,3 +87,5 @@ Sistemul este construit în jurul **ESP32-C6-WROOM-1-N8** (microcontroler Wi-Fi 
 - BME688 oferă date ambientale, iar DS3231 menține timpul precis
 - Consum redus în sleep (~5 µA) permite funcționare pe baterie >1 lună
 
+Probleme : 
+ - Nu pot genera fiserul .step (se blocheaza Fusion-ul cand incerc)
